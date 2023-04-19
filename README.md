@@ -5,7 +5,7 @@
 
 ## デモ
 
-[WEBシステムを見る](https://laravel-chat.herokuapp.com/chat)
+[WEBシステムを見る](https://laravel-chat.herokuapp.com/)
 
 
 ![商品一覧画面](https://user-images.githubusercontent.com/112298582/215312514-6f9b8214-7edc-4e09-8d3e-507de9dfacac.jpg)
