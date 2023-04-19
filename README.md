@@ -1,12 +1,11 @@
-テックアイエス開発課題　チーム開発
-# team130
+# 自主制作
 
 商品をWEBシステムで管理する
 
 
 ## デモ
 
-[WEBシステムを見る](https://techis-team130.herokuapp.com/)
+[WEBシステムを見る](https://laravel-chat.herokuapp.com/chat)
 
 
 ![商品一覧画面](https://user-images.githubusercontent.com/112298582/215312514-6f9b8214-7edc-4e09-8d3e-507de9dfacac.jpg)
@@ -26,12 +25,6 @@
 ## 利用している技術
 
  PHP / Laravel / HTML / CSS
-
-
-## 文責
-
-* 作成者 : TECH I. S. 生徒によるチーム開発プロジェクト
-* 所属 : team130
 
 
 ## インストール方法
