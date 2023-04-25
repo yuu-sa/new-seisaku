@@ -11,7 +11,7 @@
             <a href="{{ url('/item_register') }}" class="nav-link">商品登録</a>
         </li>
         <li class="nav-item">
-            <a href="{{ url('/chat') }}" class="nav-link chat">チャット</a>
+            <a href="{{ url('/chat') }}" class="nav-link chat">チャット/メモ</a>
         </li>
     </ul>
 
